@@ -6,6 +6,7 @@
       <p class="text-sm font-ligth text-center"> Contenido Creado</p>
       <div class="flex gap-2 overflow-x-auto">
         <img v-for="d in design" :key="d" :src="d" class="w-5/6 aspect-square object-cover object-top-left">
+        
       </div>
     </div>
     <div class="text-xs md:text-sm lg:text-lg text-justify basis-2/3">{{ como }}</div>
@@ -19,4 +20,6 @@ const props = defineProps({
   como:'como',
   design:'design',
 })
+
+
 </script>

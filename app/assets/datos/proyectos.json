@@ -16,7 +16,7 @@
         "dev":{
           "web": 
           [
-            "/_nuxt/assets/img/vids/vidaTenisDsktp-Light.mov" 
+            "~/assets/img/vids/vidaTenisDsktp-Light.mov" 
           ],
           "mobile":[]
         }, 
@@ -41,7 +41,7 @@
         "dev":{
           "web": 
           [
-            "/_nuxt/assets/img/vids/voucherDsktp.mp4"
+            "~/assets/img/vids/voucherDsktp.mp4"
           ],
           "mobile":[]
         }, 
@@ -69,14 +69,14 @@
           []
         }, 
         "graphic":[
-          "~/assets/img/econat/01.png",
-          "~/assets/img/econat/02.png", 
-          "~/assets/img/econat/03.png", 
-          "~/assets/img/econat/04.png", 
-          "~/assets/img/econat/banner03.png",
-          "~/assets/img/econat/banner01.png",
-          "~/assets/img/econat/bannerMbl02.png",
-          "~/assets/img/econat/pattern.png"
+          "../img/econat/01.png",
+          "../img/econat/02.png", 
+          "../img/econat/03.png", 
+          "../img/econat/04.png", 
+          "../img/econat/banner03.png",
+          "../img/econat/banner01.png",
+          "../img/econat/bannerMbl02.png",
+          "../img/econat/pattern.png"
         ]
       },
       "github": "",
@@ -98,25 +98,25 @@
         "dev":{
           "web": 
           [
-            "/_nuxt/assets/img/roommates.png"
+            "../img/roommates.png"
           ],
           "mobile": 
           [
-            "/_nuxt/assets/img/roommates.png"
+            "../img/roommates.png"
           ]
         }, 
         "graphic":[
-          "/_nuxt/assets/img/biocrom/01.png",
-          "/_nuxt/assets/img/biocrom/02.png", 
-          "/_nuxt/assets/img/biocrom/03.png", 
-          "/_nuxt/assets/img/biocrom/04.png", 
-          "/_nuxt/assets/img/biocrom/05.png", 
-          "/_nuxt/assets/img/biocrom/bannerLinkedIn.png",
-          "/_nuxt/assets/img/biocrom/email.png",
-          "/_nuxt/assets/img/biocrom/flyer.png",
-          "/_nuxt/assets/img/biocrom/flyer01.png",
-          "/_nuxt/assets/img/biocrom/pendon.png",
-          "/_nuxt/assets/img/biocrom/rebrand.png"
+          "../img/biocrom/01.png",
+          "../img/biocrom/02.png", 
+          "../img/biocrom/03.png", 
+          "../img/biocrom/04.png", 
+          "../img/biocrom/05.png", 
+          "../img/biocrom/bannerLinkedIn.png",
+          "../img/biocrom/email.png",
+          "../img/biocrom/flyer.png",
+          "../img/biocrom/flyer01.png",
+          "../img/biocrom/pendon.png",
+          "../img/biocrom/rebrand.png"
         ]
       },
       "github": "",
@@ -137,7 +137,7 @@
         "dev":{
           "web": 
           [
-            "/_nuxt/assets/img/vids/roommates.mov"
+            "../img/vids/roommates.mov"
           ],
           "mobile":[]
         }, 
@@ -161,7 +161,7 @@
         "dev":{
           "web": 
           [
-            "/_nuxt/assets/img/vids/bancoSolar.mov"
+            "../img/vids/bancoSolar.mov"
           ],
           "mobile":[]
         }, 
