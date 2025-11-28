@@ -16,7 +16,7 @@
         "dev":{
           "web": 
           [
-            "~/assets/img/vids/vidaTenisDsktp-Light.mov" 
+            "../img/vids/vidaTenisDsktp-Light.mov"
           ],
           "mobile":[]
         }, 
@@ -41,7 +41,7 @@
         "dev":{
           "web": 
           [
-            "~/assets/img/vids/voucherDsktp.mp4"
+            "../img/vids/voucherDsktp.mp4"
           ],
           "mobile":[]
         }, 
@@ -54,8 +54,8 @@
       "name": "EcoNaturals",
       "proyecto": "econaturals",
       "descripcion": {
-        "resumen": "Proyecto de diseño gráfico que incluye la creación de contenido visual para redes sociales. Se desarrollaron piezas atractivas y coherentes con la identidad de marca para plataformas como Instagram y Facebook.",
-        "como": "El proyecto fue desarrollado mediante el uso de herramientas de diseño profesionales como Adobe Creative Suite. Se crearon múltiples diseños siguiendo las guías de marca de EcoNaturals, asegurando consistencia visual en todos los materiales. Se optimizaron las imágenes para cada plataforma social (dimensiones, formatos, resolución) para garantizar que el contenido se viera profesional y atrayente en dispositivos móviles y desktop. Se tomó en cuenta la psicología del color y la composición visual para maximizar el engagement."
+        "resumen": "Proyecto de diseño de gráficas que incluye la creación de contenido visual para redes sociales. Se desarrollaron piezas atractivas y coherentes con la identidad de marca para plataformas como Instagram y Facebook.",
+        "como": "Las gráficas fueron desarrolladas mediante el uso de herramientas de diseño profesionales como Adobe Creative Suite. Se crearon múltiples diseños siguiendo las guías de marca de EcoNaturals, asegurando consistencia visual en todos los materiales. Se optimizaron las imágenes para cada plataforma social (dimensiones, formatos, resolución) para garantizar que el contenido se viera profesional y atrayente en dispositivos móviles y desktop."
       },
       "tipo": "Freelance",
       "info": [
@@ -96,14 +96,8 @@
       ],
       "content":{
         "dev":{
-          "web": 
-          [
-            "../img/roommates.png"
-          ],
-          "mobile": 
-          [
-            "../img/roommates.png"
-          ]
+          "web": [],
+          "mobile": []
         }, 
         "graphic":[
           "../img/biocrom/01.png",

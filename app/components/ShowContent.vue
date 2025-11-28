@@ -5,7 +5,7 @@
     <div class="bg-bg/50 p-2 rounded">
       <p class="text-sm font-ligth text-center"> Contenido Creado</p>
       <div class="flex gap-2 overflow-x-auto">
-        <img v-for="d in design" :key="d" :src="d" class="w-5/6 aspect-square object-cover object-top-left">
+        <img v-for="d in design" :key="d" :src="d" class="w-5/6 lg:w-5/8 aspect-square object-cover object-top-left">
         
       </div>
     </div>

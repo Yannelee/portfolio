@@ -16,7 +16,12 @@
       <ul v-for="list in experience" :key="list" class="list-disc ps-4">
         <li>{{list}}</li>
       </ul>
-      <Button nombre="Mi Cv" class="mt-10" arrow="right" />
+      <div class="flex items-center mt-10 hover:underline hover:italic gap-4">
+        <a href="https://drive.google.com/file/d/1PO2frWKrRN4GSONOqtOMobijANVlVgXT/view?usp=sharing" target="_blank"  class="text-2xl">Mi CV</a>
+        <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="size-5 md:size-8" viewBox="0 0 16 16">
+          <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/>
+        </svg>
+      </div>
     </div>
   </div>
 </template>
