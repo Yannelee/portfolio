@@ -1,0 +1,174 @@
+{
+  "proyects": [
+    {
+      "name": "Academia Vida Tenis",
+      "proyecto": "academiavidatenis",
+      "descripcion": {
+        "resumen": "Sitio web informativo de Academia Vida Tenis que permite a potenciales clientes conocer los programas de entrenamiento, horarios y contacto. Desarrollado como Single Page Application con Nuxt 3 para garantizar rendimiento y experiencia de usuario fluida.",
+        "como": "El proyecto fue desarrollado utilizando Nuxt 3 como framework principal, complementado con Tailwind CSS para estilos modernos y responsivos. Se implementó como una SPA para garantizar una navegación rápida sin recargas de página. El sitio fue optimizado y alojado en Firebase con CDN de Cloudflare para asegurar velocidad de carga óptima en todo el mundo. Se realizó diseño web y maquetación responsiva para adaptarse a dispositivos móviles y desktop."
+      },
+      "tipo": "Freelance",
+      "info": [
+        "Diseñadora web",
+        "Desarrolladora Front-End"
+      ],
+      "content":{
+        "dev":{
+          "web": 
+          [
+            "/_nuxt/assets/img/vids/vidaTenisDsktp-Light.mov" 
+          ],
+          "mobile":[]
+        }, 
+        "graphic":[]
+      },
+      "github": "",
+      "link": "www.academiavidatenis.cl"
+    },
+    {
+      "name": "Voucher",
+      "proyecto": "voucher",
+      "descripcion": {
+        "resumen": "Aplicación web especializada en la generación y envío automatizado de vouchers de pago de gastos comunes. Los usuarios pueden crear y distribuir fácilmente comprobantes de pago mediante correo electrónico directamente desde la plataforma.",
+        "como": "La aplicación fue construida con Nuxt 3 para el frontend y Tailwind CSS para una interfaz moderna. Se utilizó Pinia como gestor de estado para manejar la lógica compleja de la aplicación. Para el backend, se implementó Node.js con Nodemailer para automatizar el envío de correos electrónicos. Los datos se almacenan en Firebase Firestore, proporcionando una base de datos en tiempo real y escalable. El proyecto fue desplegado en Netlify para facilitar el acceso desde cualquier lugar y garantizar disponibilidad continua."
+      },
+      "tipo": "Freelance",
+      "info": [
+        "Diseñadora web",
+        "Desarrolladora Web"
+      ],
+      "content":{
+        "dev":{
+          "web": 
+          [
+            "/_nuxt/assets/img/vids/voucherDsktp.mp4"
+          ],
+          "mobile":[]
+        }, 
+        "graphic":[]
+      },
+      "github": "https://github.com/Yannelee/voucher",
+      "link": ""
+    },
+    {
+      "name": "EcoNaturals",
+      "proyecto": "econaturals",
+      "descripcion": {
+        "resumen": "Proyecto de diseño gráfico que incluye la creación de contenido visual para redes sociales. Se desarrollaron piezas atractivas y coherentes con la identidad de marca para plataformas como Instagram y Facebook.",
+        "como": "El proyecto fue desarrollado mediante el uso de herramientas de diseño profesionales como Adobe Creative Suite. Se crearon múltiples diseños siguiendo las guías de marca de EcoNaturals, asegurando consistencia visual en todos los materiales. Se optimizaron las imágenes para cada plataforma social (dimensiones, formatos, resolución) para garantizar que el contenido se viera profesional y atrayente en dispositivos móviles y desktop. Se tomó en cuenta la psicología del color y la composición visual para maximizar el engagement."
+      },
+      "tipo": "Freelance",
+      "info": [
+        "Diseñadora de Contenido Gráfico"
+      ],
+      "content":{
+        "dev":{
+          "web": 
+          [],
+          "mobile": 
+          []
+        }, 
+        "graphic":[
+          "/_nuxt/assets/img/econat/01.png",
+          "/_nuxt/assets/img/econat/02.png", 
+          "/_nuxt/assets/img/econat/03.png", 
+          "/_nuxt/assets/img/econat/04.png", 
+          "/_nuxt/assets/img/econat/banner03.png",
+          "/_nuxt/assets/img/econat/banner01.png",
+          "/_nuxt/assets/img/econat/bannerMbl02.png",
+          "/_nuxt/assets/img/econat/pattern.png"
+        ]
+      },
+      "github": "",
+      "link": ""
+    },
+    {
+      "name": "Biocrom",
+      "proyecto": "biocrom",
+      "descripcion": {
+        "resumen": "Proyecto integral de rebranding que incluye rediseño de logotipo manteniendo la identidad original, más la creación de materiales de marketing y presencia en redes sociales para cohesión visual de la marca.",
+        "como": "El rebranding se realizó mediante un análisis profundo de la identidad visual anterior para mantener la esencia mientras se modernizaba el diseño. Se desarrolló un nuevo logotipo que conservara los elementos reconocibles de Biocrom. Posteriormente, se creó una suite completa de materiales de marketing incluyendo gráficas para redes sociales, pendones, flyers y tarjetas de presentación. Se utilizaron herramientas de diseño como Adobe Illustrator y Photoshop, manteniendo consistencia de marca en todos los elementos a través de un manual de identidad visual establecido."
+      },
+      "tipo": "Freelance",
+      "info": [
+        "Diseñadora de Gráficas",
+        "Rebranding"
+      ],
+      "content":{
+        "dev":{
+          "web": 
+          [
+            "/_nuxt/assets/img/roommates.png"
+          ],
+          "mobile": 
+          [
+            "/_nuxt/assets/img/roommates.png"
+          ]
+        }, 
+        "graphic":[
+          "/_nuxt/assets/img/biocrom/01.png",
+          "/_nuxt/assets/img/biocrom/02.png", 
+          "/_nuxt/assets/img/biocrom/03.png", 
+          "/_nuxt/assets/img/biocrom/04.png", 
+          "/_nuxt/assets/img/biocrom/05.png", 
+          "/_nuxt/assets/img/biocrom/bannerLinkedIn.png",
+          "/_nuxt/assets/img/biocrom/email.png",
+          "/_nuxt/assets/img/biocrom/flyer.png",
+          "/_nuxt/assets/img/biocrom/flyer01.png",
+          "/_nuxt/assets/img/biocrom/pendon.png",
+          "/_nuxt/assets/img/biocrom/rebrand.png"
+        ]
+      },
+      "github": "",
+      "link": ""
+    },
+    {
+      "name": "Roommates",
+      "proyecto": "roommates",
+      "descripcion": {
+        "resumen": "Aplicación web que facilita el registro y control de gastos compartidos entre roommates. Proporciona una forma intuitiva de calcular quién debe pagar qué, evitando conflictos sobre la división de costos.",
+        "como": "La aplicación fue desarrollada usando Node.js en el backend, implementando una API RESTful con manejo robusto de códigos de estado HTTP. Se utilizó el File System de Node para la persistencia de datos en archivos. Se implementó un sistema completo de manejo de errores para garantizar que la aplicación sea resiliente ante fallos. Se configuró Nodemailer para enviar notificaciones por correo a los usuarios sobre sus deudas y pagos. La arquitectura fue diseñada siguiendo principios REST para facilitar la escalabilidad y mantenimiento del código."
+      },
+      "tipo": "bootcamp",
+      "info": [
+        "Desarrolladora Web"
+      ],
+      "content":{
+        "dev":{
+          "web": 
+          [
+            "/_nuxt/assets/img/vids/roommates.mov"
+          ],
+          "mobile":[]
+        }, 
+        "graphic":[]
+      },
+      "github": "https://github.com/Yannelee/Roommates",
+      "link": ""
+    },
+    {
+      "name": "Banco Solar",
+      "proyecto": "bancosolar",
+      "descripcion": {
+        "resumen": "Simulador de aplicación bancaria que permite realizar transacciones entre cuentas. Integra una base de datos PostgreSQL real para almacenar información de usuarios y operaciones, proporcionando una experiencia cercana a un banco real.",
+        "como": "El proyecto fue construido con Node.js en el servidor, estableciendo conexión con una base de datos PostgreSQL. Se implementaron consultas DML (Data Manipulation Language) para gestionar inserciones, actualizaciones y eliminaciones de datos, y consultas TCL (Transaction Control Language) para asegurar la integridad de las transacciones. Se desarrolló una API RESTful completa que expone los datos almacenados en la base de datos. En el frontend se utilizó tecnología web estándar. El proyecto demuestra profundo conocimiento en gestión de bases de datos relacionales y arquitectura cliente-servidor."
+      },
+      "tipo": "bootcamp",
+      "info": [
+        "Desarrolladora Web"
+      ],
+      "content":{
+        "dev":{
+          "web": 
+          [
+            "/_nuxt/assets/img/vids/bancoSolar.mov"
+          ],
+          "mobile":[]
+        }, 
+        "graphic":[]
+      },
+      "github": "https://github.com/Yannelee/bancoSolar",
+      "link": ""
+    }
+  ]
+}
