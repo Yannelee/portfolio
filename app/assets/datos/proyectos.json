@@ -69,14 +69,14 @@
           []
         }, 
         "graphic":[
-          "/_nuxt/assets/img/econat/01.png",
-          "/_nuxt/assets/img/econat/02.png", 
-          "/_nuxt/assets/img/econat/03.png", 
-          "/_nuxt/assets/img/econat/04.png", 
-          "/_nuxt/assets/img/econat/banner03.png",
-          "/_nuxt/assets/img/econat/banner01.png",
-          "/_nuxt/assets/img/econat/bannerMbl02.png",
-          "/_nuxt/assets/img/econat/pattern.png"
+          "~/assets/img/econat/01.png",
+          "~/assets/img/econat/02.png", 
+          "~/assets/img/econat/03.png", 
+          "~/assets/img/econat/04.png", 
+          "~/assets/img/econat/banner03.png",
+          "~/assets/img/econat/banner01.png",
+          "~/assets/img/econat/bannerMbl02.png",
+          "~/assets/img/econat/pattern.png"
         ]
       },
       "github": "",
